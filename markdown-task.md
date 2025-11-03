@@ -1,15 +1,16 @@
-Welcome to TreeLife, your guide to learning about the beauty, diversity, and importance of trees around the world.
+Welcome to **TreeLife**, your guide to learning about the beauty, diversity, and importance of trees around the world.
 
 ---
 
 ## About Us
-At TreeLife, we're passionate about forests and green living.
+At **TreeLife**, we're passionate about forests and green living.
+
 Our mission is to:
 - Educate people about the differt types of trees.
 - Promote sustainable forestry.
 - Encourage reforestion projects.
 
-'''
+
 
 > "The nest time to plant a tree was 20 years ago. The second best time is now."
 - *Chinese Proverb*
@@ -25,14 +26,17 @@ Our mission is to:
 Known for its strength and longevity, the oak is a symbol of endurance.
 
 <img src="https://treenewal.com/wp-content/uploads/2020/11/oak-tree-care.png" alt="Complete All in One Tree Care Guide for Oak Trees | TreeNewal"/>
+
 ---
 
+
 ## Pine Tree
-**Scientific Name:** *pinus*
+**Scientific Name:** *Pinus*
 
 Evergreen and aromatic, pine trees thrive in colder regions.
 
 <img src="https://gardenerspath.com/wp-content/uploads/2023/08/Pine-Tree-Propagation-Feature.jpg" alt="How to Propagate Pine Trees from Seed | Gardener&#39;s Path"/>
+
 ---
 
 ## Tree Identification Tool
